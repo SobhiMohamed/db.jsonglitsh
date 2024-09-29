@@ -48,6 +48,13 @@
       "role": "user",
       "id": 6
     }
+    {
+    "name":"ammar",
+      "email":"ammar@gmail.com",
+      "password":"1234",
+      "gender":"male",
+      "role":"admin",
+      
   ],
   "products": [
     {
